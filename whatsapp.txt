@@ -1,0 +1,9 @@
+api for whatsapp (the link is )
+                OnyxBerry.com/services/wapi/
+1: create account
+2: download whatsapp client(is google drive b automatic download ho jya ga)
+3: download the php code and change id and secret key 
+then copy code and past on index page then run code 
+your msg has been successful working 
+                 lakien ya msg bs (OnyxBerry.com/services/wapi/) is websit per show ho to hum is ko whatsapp per show krna k 
+liya ha whatsapp client chala gya to ya run ho jya ga 
